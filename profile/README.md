@@ -7,7 +7,7 @@
 <p align="center" style="margin-bottom: 0px !important;">
   <a href="https://hooverhs.org" alt="HooverHighWebsite">
     <img src="https://link.hooverhigh.ml/ghhhw" /></a>
-  <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+  <a href="https://thetornadotimes.net/" alt="Tornado Times Website">
     <img src="https://link.hooverhigh.ml/ghttbtn" /></a>
   <a href="https://link.hooverhigh/hhinsta" alt="Instagram">
     <img src="https://link.hooverhigh.ml/ghhhi" /></a>

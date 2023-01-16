@@ -9,7 +9,7 @@
     <img src="https://link.hooverhigh.ml/ghhhw" /></a>
   <a href="https://thetornadotimes.net/" alt="Tornado Times Website">
     <img src="https://link.hooverhigh.ml/ghttbtn" /></a>
-  <a href="https://link.hooverhigh/hhinsta" alt="Instagram">
+  <a href="https://link.hooverhigh.ml/hhinsta" alt="Instagram">
     <img src="https://link.hooverhigh.ml/ghhhi" /></a>
 </p>
 <!--<div align="center">

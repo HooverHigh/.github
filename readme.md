@@ -2,4 +2,4 @@
   <p>We are hoover!</p>
 </div>
 
-This github accountis student run and all custom apps for hooverhigh are made and uploaded here.
+This github account is student run and all custom apps for hooverhigh are made and uploaded here.

@@ -18,11 +18,7 @@
 </div>
 <p align="center" style="margin-bottom: 0px !important;">
   <a href="https://link.hooverhigh.ml/hhinsta" alt="Quest App Launcher">
-    <img src="https://dabuttonfactory.com/button.png?t=Quest+App+Launcher&f=Ubuntu-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=924eee" width="50" /></a>
-  <a href="https://link.hooverhigh.ml/hhinsta" alt="Instagram">
-    <img src="../assets/purple_instagram.jpg" width="50" /></a>
-  <a href="https://link.hooverhigh.ml/hhinsta" alt="Instagram">
-    <img src="../assets/purple_instagram.jpg" width="50" /></a>
+    <img src="https://dabuttonfactory.com/button.png?t=Quest+App+Launcher&f=Ubuntu-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=924eee" width="170" /></a>
 </p>
 
 <!---------------------------------------------------------------------------->

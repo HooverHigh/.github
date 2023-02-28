@@ -17,7 +17,7 @@
   <h2 style="margin-top: 0px;">Projects:</h2>
 </div>
 <p align="center" style="margin-bottom: 0px !important;">
-  <a href="https://link.hooverhigh.ml/hhinsta" alt="Quest App Launcher">
+  <a href="https://github.com/hooverhigh/QuestAppLauncher" alt="Quest App Launcher">
     <img src="https://dabuttonfactory.com/button.png?t=Quest+App+Launcher&f=Ubuntu-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=924eee" width="170" /></a>
 </p>
 
